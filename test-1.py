@@ -24,11 +24,3 @@ archive_crawler = ArchiveFirmWebsiteCrawler(ARCHIVE_INPUT_FILE_PATH, ARCHIVE_OUT
 archive_crawler.crawl_archive_urls()
 
 
-
-#Charter Communications;http://www.charter.com
-# New York Life Insurance;http://www.newyorklife.com
-# American Express;http://www.americanexpress.com
-# Nationwide;http://www.nationwide.com
-# Best Buy;http://www.bestbuy.com
-# Liberty Mutual Insurance Group;http://www.libertymutual.com
-# Merck;http://www.merck.com
