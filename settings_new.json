@@ -1,0 +1,15 @@
+{
+  "projectName": "fortune_100_crawl",
+  "pathToCSVUrlList": "/Users/parnianshahkar/Documents/KOF/Task1/webcrawl_networks/",
+  "nameUrlList": "fortune_100_urls.csv",
+  "csvDelimiter": ";",
+  "outputFilePath": "/Users/parnianshahkar/Documents/KOF/Task1/webcrawl_networks/output",
+  "ArchiveInputFilePath": "/Users/parnianshahkar/Documents/KOF/Task1/webcrawl_networks/fortune_100_urls_cut.csv",
+  "ArchiveOutputFilePath": "/Users/parnianshahkar/Documents/KOF/Task1/webcrawl_networks/output/archive",
+  "nameArchiveList": "Archive_Web_Urls_test.csv",
+  "StartYear": "2010",
+  "StartMonth" : "11",
+  "EndYear" : "2020",
+  "EndMonth" : "4",
+  "Frequency" : "20"
+}
